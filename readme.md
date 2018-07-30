@@ -21,7 +21,8 @@
 ```
 因爲數據不多所以做了很大的擴充，結果val_loss居然常年比train_loss低……訓練了一晚上，val_loss可以達到8.55e-5。
 
-數據我還沒上傳。
+數據集在這裏，因爲是用了幾個小時標的所以不用在意什麼著作權隨意拿去用就是:    
+https://mega.nz/#!UPQUECgb!zwPh2Kcx861KNM1bs61wrmmDbAHh7yDYyRS3_ZvxNlQ
 
 話說這個其實除了face_alignment用來取眼睛顏色也可以呀……
 
